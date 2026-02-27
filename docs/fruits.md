@@ -1,3 +1,7 @@
+---
+title: Fruits
+---
+
 ## Fruits
 
 * Apple
